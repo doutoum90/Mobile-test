@@ -1,11 +1,12 @@
 {
   "NAME": "Nom",
   "PASSWORD": "Mot de passe",
+  "PASSWORD CONFIRM": "Confirmation de mot de passe",
   "EMAIL": "E-mail",
   "LOGIN": "Connexion",
   "SIGNUP": "Inscription",
 
-  "TAB1_TITLE": "Items",
+  "TAB1_TITLE": "Page d'accueil",
   "TAB2_TITLE": "Recherche",
   "TAB3_TITLE": "Paramètres",
 
@@ -19,6 +20,12 @@
 
   "TUTORIAL_SLIDE3_TITLE": "Pour commencer",
   "TUTORIAL_SLIDE3_DESCRIPTION": "Si vous avez besoin d’aide, consultez le README du Super Starter pour un tutoriel complet.",
+
+  "TUTORIAL_SLIDE4_TITLE": "Prêt à jouer?",
+  "TUTORIAL_CONTINUE_BUTTON": "Continuer",
+  "TUTORIAL_SKIP_BUTTON": "Passer",
+  "WELCOME_INTRO": "Votre page d'aceuil",
+  "USERNAME": "Nom d'utilisateur",
 
   "SETTINGS_TITLE": "Paramètres",
   "SETTINGS_OPTION1": "Option 1",
@@ -37,7 +44,7 @@
   "SIGNUP_ERROR": "Inscription impossible. Veuillez vérifier les informations de votre compte et réessayer.",
   "SIGNUP_BUTTON": "Inscription",
 
-  "LIST_MASTER_TITLE": "Items",
+  "LIST_MASTER_TITLE": "Elements",
 
   "ITEM_CREATE_TITLE": "Nouvel item",
   "ITEM_CREATE_CHOOSE_IMAGE": "Ajouter une image",
