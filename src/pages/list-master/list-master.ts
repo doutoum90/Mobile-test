@@ -50,7 +50,10 @@ export class ListMasterPage {
    * Navigate to the detail page for this item.
    */
   openItem(item: Item) {
-    this.navCtrl.push("ItemDetailPage", {
+    /* this.navCtrl.push("ItemDetailPage", {
+      item: item,
+    }); */
+    this.navCtrl.push("CardsPage", {
       item: item,
     });
   }
